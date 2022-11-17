@@ -12,3 +12,5 @@ Repo içerisinde, projede istenen 3 projeye dair ayrı MarkDown dosyaları bulun
 ### **[Patika.dev](https://app.patika.dev/) ekibine teşekkürler.**
 ---
 ---
+
+
