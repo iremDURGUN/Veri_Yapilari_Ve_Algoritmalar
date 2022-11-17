@@ -119,7 +119,7 @@
 
 ---
 ---
-*-> README.md doyasına dönmek için [tıklayınız.](https://github.com/ufuk-ceritli/Veri_Yapilari_ve_Algoritmalar/blob/main/README.md)*
+*-> README.md doyasına dönmek için [tıklayınız.](https://github.com/iremDURGUN/Veri_Yapilari_Ve_Algoritmalar/blob/main/README.md)*
 
 *<- Proje 2 - Merge Sort Projesi'ne dönmek için[ tıklayınız.](https://github.com/ufuk-ceritli/Veri_Yapilari_ve_Algoritmalar/blob/main/Proje%202%20-%20Merge%20Sort.md)*
 
