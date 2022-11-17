@@ -94,7 +94,7 @@ Big-o gösterimi  O(n.logn) şeklinde olur.
 
 ---
 ---
-*-> Proje 3 - Binary Search Tree Projesi'ne ilerlemek için[ tıklayınız.](https://github.com/ufuk-ceritli/Veri_Yapilari_ve_Algoritmalar/blob/main/Proje%203%20-%20Binary%20Search%20Tree.md)*
+*-> Proje 3 - Binary Search Tree Projesi'ne ilerlemek için[ tıklayınız.](https://github.com/iremDURGUN/Veri_Yapilari_Ve_Algoritmalar/blob/main/BinarySearchTreeProjesi.md)*
 
 *<- Proje 1 - Insertion Sort Projesi'ne dönmek için [tıklayınız.](https://github.com/iremDURGUN/Veri_Yapilari_Ve_Algoritmalar/blob/main/%C4%B0nsertionSortProjesi.md)*
 
